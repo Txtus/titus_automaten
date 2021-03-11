@@ -59,5 +59,6 @@ You have to add to your bt-target this:
         distance = 2.5
     })
     
+    
     This adds that you can use the Vending Machines with bt-target.
 
