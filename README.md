@@ -1,6 +1,6 @@
 By: Titus#8023
 
-[All credits to Brentn5 who createt Polyzone and bt-target](https://forum.cfx.re/t/release-standalone-target-tracking/2270296)
+Credits for bt-target: [Brentn5](https://forum.cfx.re/u/Brentn5/summary)
 
 Credits for pNotify: [Nick78111](https://forum.cfx.re/u/nick78111/summary)
 
