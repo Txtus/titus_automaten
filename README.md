@@ -8,7 +8,7 @@ polyzone: https://forum.cfx.re/t/release-standalone-polyzone-tracking/2254628
 bt-target: https://forum.cfx.re/t/release-standalone-target-tracking/2270296
 pNotify: https://forum.cfx.re/t/release-pnotify-in-game-js-notifications-using-noty/20659
 
-You will add to your bt-target this:
+You have to add to your bt-target this:
 
 
         local coffee = {
