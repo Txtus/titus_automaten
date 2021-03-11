@@ -4,7 +4,7 @@ Credits for pNotify: Nick78111: https://forum.cfx.re/u/nick78111/summary
 
 Link to the dependencies:
 
-polyzone: https://forum.cfx.re/t/release-standalone-polyzone-tracking/2254628
+[polyzone](https://forum.cfx.re/t/release-standalone-polyzone-tracking/2254628)
 bt-target: https://forum.cfx.re/t/release-standalone-target-tracking/2270296
 pNotify: https://forum.cfx.re/t/release-pnotify-in-game-js-notifications-using-noty/20659
 
