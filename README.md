@@ -11,13 +11,12 @@ pNotify: https://forum.cfx.re/t/release-pnotify-in-game-js-notifications-using-n
 You will add to your bt-target this:
 
 
-local coffee = {
-        690372739,
-        
-    }
+        local coffee = {
+         690372739,
+        }
 
-AddTargetModel(coffee, {
-        options = {
+        AddTargetModel(coffee, {
+          options = {
             {
                 event = "titus-automaten:coffe",
                 icon = "fas fa-coffee",
